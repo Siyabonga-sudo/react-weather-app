@@ -24,12 +24,7 @@
     margin-bottom:10px;
 }
 
-.Weather img {
-    height: 64px;
-    display: inline-block;
-    margin-right: 10px;
-    
-}
+
 
 .Weather .temperature {
     font-weight: 400;

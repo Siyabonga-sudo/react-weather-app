@@ -11,3 +11,9 @@
 .App a {
     text-decoration: none;
 }
+
+.App img {
+    height: 64px;
+    display: inline-block;
+    margin-right: 10px; 
+}
